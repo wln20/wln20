@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Luning Wang
+- 👋 Hi, I’m Luning Wang, a junior student in THU-EE. 
 - 👀 I’m interested in Web technology, AI and Data-analysis
-- 🌱 I’m currently learning object-detection algorhithm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently trying to get on the way of deep-learning
 - 📫 How to reach me: wln20@mails.tsinghua.edu.cn
 
 <!---
