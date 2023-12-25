@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luning Wang, a junior student in THU-EE. 
-- 👀 I’m interested in Web technology, AI and Data-analysis
-- 🌱 I’m currently trying to get on the way of deep-learning
-- 📫 How to reach me: wln20@mails.tsinghua.edu.cn
+- 👋 Hi, I’m Wang Luning, a senior student at the Department of Electronic Engineering, Tsinghua University. 
+- 👀 Visit my personal website to learn more: https://wln20.github.io 
+  
+
 
 <!---
 wln20/wln20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
