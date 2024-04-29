@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Wang Luning, a senior student at the Department of Electronic Engineering, Tsinghua University. 
-- 👀 Visit my personal website to learn more: https://wln20.github.io 
+- 👋 Hi, I’m Luning Wang, a fourth-year undergraduate student at the Department of Electronic Engineering, Tsinghua University.
+- 👀 Visit my webpage to learn more: https://wln20.github.io 
   
 
 
