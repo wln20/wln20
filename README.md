@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Luning Wang, a fourth-year undergraduate student at the Department of Electronic Engineering, Tsinghua University.
+- 👋 Hi, I’m Luning Wang, a M.S. student at the Department of Electrical and Computer Engineering, University of Michigan.
+- ✨ Before joining UMich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
 - 👀 Visit my webpage to learn more: https://wln20.github.io 
   
 
