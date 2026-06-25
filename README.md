@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=wln20)
-- 🌱 Hi! I'm Luning Wang, currently a Master's student at the University of Michigan. Before that, I did my undergrad at the Department of Electronic Engineering, Tsinghua University.
-- 📖 I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I’m also looking into some other AI techs like RL and GR. Feel free to reach out! See my <a href='https://wln20.github.io'>Homepage</a> and <a href='https://www.linkedin.com/in/wangluning/'>LinkedIn</a> to learn more about me.
-- 🤝 I'm open to discussion & collaboration. Feel free to chat with me!
+- 🌱 Hi! This is Luning Wang (王麓宁)’s homepage. I’m currently working on Large Recommendation Models & Generative Recommendation at ByteDance Douyin Group as a full-time algorithm engineer.
+- 📖 I mainly focused on the infrastructure and efficiency optimization of Large Language Models in my past work. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I’ve also done works related to LLM Systems, in which I gained experience of working on vLLM and parallel computing. 
+- 🤝 I’d casually put my notes for new works & random thoughts in my [blog posts](https://wln20.github.io/blog/), hope that could help as a reference if you’re also interested in related topics. I’m open to discussion and collaboration, feel free to drop me an [Email](mailto:wangluning2@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/wangluning)!
+
+
+
+
